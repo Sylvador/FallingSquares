@@ -1,0 +1,10 @@
+﻿  Game.cpp
+D:\Users\Kappa\Visual studio projects\SimplePimple\Game.cpp(166,27): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Users\Kappa\Visual studio projects\SimplePimple\Game.cpp(205,23): warning C4244: +=: преобразование "float" в "unsigned int", возможна потеря данных
+D:\Users\Kappa\Visual studio projects\SimplePimple\Game.cpp(207,23): warning C4244: +=: преобразование "float" в "unsigned int", возможна потеря данных
+D:\Users\Kappa\Visual studio projects\SimplePimple\Game.cpp(209,23): warning C4244: +=: преобразование "float" в "unsigned int", возможна потеря данных
+D:\Users\Kappa\Visual studio projects\SimplePimple\Game.cpp(211,23): warning C4244: +=: преобразование "float" в "unsigned int", возможна потеря данных
+D:\Users\Kappa\Visual studio projects\SimplePimple\Game.cpp(213,23): warning C4244: +=: преобразование "float" в "unsigned int", возможна потеря данных
+  SimplePimple.cpp
+  Создание кода...
+  SimplePimple.vcxproj -> D:\Users\Kappa\Visual studio projects\SimplePimple\Debug\SimplePimple.exe
